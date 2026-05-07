@@ -1,4 +1,3 @@
-import math
 def main():
     print("Hello from assignment5-dsc190!")
 
